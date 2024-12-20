@@ -4,7 +4,7 @@
 const msal = require('@azure/msal-node');
 
 //const { CLIENT_ID, TENANT_ID, AUTHORITY, SCOPE } = process.env;
-const CLIENT_SECRET = '4dA8Q~-L._N2XZxr1oYOqK6IIboWnQlG3EhP-cd4'
+//const CLIENT_SECRET = '4dA8Q~-L._N2XZxr1oYOqK6IIboWnQlG3EhP-cd4'
 const CLIENT_ID='caacdf22-3a82-47b6-a1c2-52af1b800d05'
 
 const TENANT_ID='b1bb0a34-b3ce-4837-b8e0-09bcba775f34'
